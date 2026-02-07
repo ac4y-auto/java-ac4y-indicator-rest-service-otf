@@ -1,0 +1,1 @@
+java -jar ac4yIndicatorRestServiceOnThefly-1.1.20210418.1.jar 9999
